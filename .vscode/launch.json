@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.kd.wall.Main",
+            "projectName": "spring-boot-docker-kubernetes-wall"
+        }
+    ]
+}
